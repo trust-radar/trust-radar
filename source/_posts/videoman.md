@@ -33,7 +33,9 @@ and a lot more…
   <source src="https://videoman.b-cdn.net/20210131184732200SecDemoVideoVideoMan_720p.mp4" type="video/mp4">
 </video> -->
 <!-- {% youtube wjh1azw8hIE %} -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wjh1azw8hIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/wjh1azw8hIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 

@@ -4,16 +4,16 @@
 
 # Site
 title: Trust Radar
-subtitle: 'test sutitle'
-description: 'test'
-keywords:
+subtitle: 'Trust Radar'
+description: 'Trust Radar'
+keywords: TrustRadar, review
 author: John Doe
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://trust-radar.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -113,3 +113,23 @@ search:
   field: post
   content: false
   format: striptags
+
+robotstxt:
+  useragent: "*"
+  allow:
+  - /
+  sitemap: https://trust-radar.github.io/sitemap.xml
+
+nofollow:
+  enable: true
+  exclude:
+    - exclude1.com
+    - exclude2.com
+  include:
+    noreferrer: true
+    noopener: true
+
+  sitemap:
+    path: sitemap.xml
+    tag: false
+    category: false
