@@ -1,7 +1,12 @@
 ---
-title: Create YouTube Videos for Free
+title: Create YouTube Videos online for Free
 date: 2021-02-11 20:14:00
-categories: [Adobe Spark]
+keywords: free video editor, online video editor
+tags: [Adobe Spark]
+categories: 
+       - [ Video ]
+       - [  Youtube ]
+       - [  Marketing ]
 ---
 Make custom YouTube videos for your channel in a flash. No design skills are needed.
 [Create Video Now](https://adobesparkvideo.app.link/NdKoobyZJ5)

@@ -1,7 +1,11 @@
 ---
-title: Videoman - Advanced Video Hosting and Marketing Platform
+title: Videoman Software - Advanced Video Hosting and Marketing Platform
 date: 2021-03-04 10:50:08
-categories: [Videoman]
+keywords: videoman software, videoman video editor
+tags: [Videoman]
+categories: 
+       - [ Video ]
+       - [  Youtube ]
 ---
 PERFECT for Sales Videos, Training Videos, Promo Videos, Product Demo Videos, Video Ads, Testimonial Videos, Behind-the-Scenes Videos and much more…
 
