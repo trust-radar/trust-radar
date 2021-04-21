@@ -118,6 +118,7 @@
   h1, h2, h3, h4, h5, h6 {
     color: var(--second-text-color);
     line-height: 1.5;
+    margin-top: 2rem;
 
     +keep-tablet() {
       line-height: 1.25;
@@ -190,7 +191,7 @@
   img {
     box-sizing: border-box;
     max-width: 100%;
-    cursor: zoom-in;
+    cursor: pointer;
     display: block;
     box-shadow: 0 0 2px var(--shadow-color);
     transition-t("padding, margin", "0, 0", "0.2, 0.2", "linear, linear");
@@ -198,7 +199,7 @@
     if (hexo-config('style.article_img_align') == 'center') {
       margin: 10px auto 2px;
     } else {
-      margin: 10px 0 2px;
+      margin: 3rem 0 3rem;
     }
 
   }

@@ -1,23 +1,24 @@
 $avatarWidth = 46px;
 $arrow-icon-width = 16px;
 $post-nav-max-width = 220px;
-$article-title-font-size = 2.2rem;
+$article-title-font-size = 2.7rem;
 
 .article-content-container {
-
+ 
   keep-container(false, 0, 0, 30px, 30px);
 
   .article-title {
     color: var(--second-text-color);
-    font-weight: 600;
+    font-weight: lighter;
     font-size: $article-title-font-size;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
 
     +keep-tablet() {
-      font-size: $article-title-font-size * 0.9;
+      font-size: $article-title-font-size * 0.8;
     }
 
     +keep-mobile() {
-      font-size: $article-title-font-size * 0.8;
+      font-size: $article-title-font-size * 0.7;
     }
   }
 
@@ -87,7 +88,7 @@ $article-title-font-size = 2.2rem;
 
 
   .article-header, .article-header-meta-info {
-    margin-top: 16px;
+    margin-top: 5%;
     +keep-tablet() {
       transform: scale(0.9);
       transform-origin: left top;
@@ -101,6 +102,11 @@ $article-title-font-size = 2.2rem;
     word-wrap: break-word;
     border-bottom: 1px solid var(--border-color);
     color: var(--default-text-color);
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 20px;
+    margin-top: 2em;
+    letter-spacing: -0.003em;
+    font-weight: 400;
   }
 
   .post-copyright-info {
@@ -206,4 +212,51 @@ $article-title-font-size = 2.2rem;
   right: 0;
   width: 100%;
   height: 100%;
+}
+
+/* affiliate button */
+.link-button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #0075eb;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 1rem 0 1rem;
+  width: 80%;
+}
+
+.link-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.link-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.link-button:hover span {
+  padding-right: 25px;
+}
+
+.link-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.image-responsive {
+  width: 100%;
+  height: auto;
 }
