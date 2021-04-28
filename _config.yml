@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Trust Radar
-subtitle: 'Trust Radar'
-description: 'Trust Radar'
-keywords: best software, Trust Radar review, Trustradar review
-author: TrustRadar
+title: Trusted Mate
+subtitle: 'Trusted Mate'
+description: 'Provides details about best digital products globally available.'
+keywords: web hosting, best software, Trusted Mate review, ps5
+author: Trusted Mate
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://trust-radar.github.io
+url: https://trustedmate.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -118,7 +118,7 @@ robotstxt:
   useragent: "*"
   allow:
   - /
-  sitemap: https://trust-radar.github.io/sitemap.xml
+  sitemap: https://trustedmate.com/sitemap.xml
 
 nofollow:
   enable: true
@@ -133,3 +133,5 @@ nofollow:
     path: sitemap.xml
     tag: false
     category: false
+
+all_minifier: true
