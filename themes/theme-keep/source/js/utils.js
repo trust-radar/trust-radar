@@ -201,41 +201,6 @@ KEEP.initUtils = () => {
       }
     },
 
-    // big image viewer
-    imageViewer() {
-      let isBigImage = false;
-
-      const showHandle = (maskDom, isShow) => {
-        document.body.style.overflow = isShow ? 'hidden' : 'auto';
-        if (isShow) {
-          maskDom.classList.add('active');
-        } else {
-          maskDom.classList.remove('active');
-        }
-      }
-
-      const imageViewerDom = document.querySelector('.image-viewer-container');
-      const targetImg = document.querySelector('.image-viewer-container img');
-      imageViewerDom && imageViewerDom.addEventListener('click', () => {
-        isBigImage = false;
-        showHandle(imageViewerDom, isBigImage);
-      });
-
-      const imgDoms = document.querySelectorAll('.markdown-body img');
-
-      if (imgDoms.length) {
-        imgDoms.forEach(img => {
-          img.addEventListener('click', () => {
-            isBigImage = true;
-            showHandle(imageViewerDom, isBigImage);
-            targetImg.setAttribute('src', img.getAttribute('src'));
-          });
-        });
-      } else {
-        this.pageContainer_dom.removeChild(imageViewerDom);
-      }
-    },
-
     // set how long ago language
     setHowLongAgoLanguage(p1, p2) {
       return p2.replace(/%s/g, p1)
@@ -351,10 +316,6 @@ KEEP.initUtils = () => {
   // init first screen height
   KEEP.utils.initFirstScreenHeight();
 
-  // big image viewer handle
-  KEEP.utils.imageViewer();
-
   // set how long age in home article block
   KEEP.utils.setHowLongAgoInHome();
-
 }

@@ -35,9 +35,9 @@ style:
 
   # First screen
   first_screen:
-    enable: false
+    enable: true
     background_img: /images/bg.svg   # You can use local image or image external link
-    description: Keep writing and Keep loving.
+    description: Trusted mate provides details on best digital software products and cloud services available for Developers, Bloggers, Email Marketers, Vloggers, Youtubers and so on ... 
 
   # Scroll style settings
   scroll:
@@ -211,7 +211,7 @@ lazyload:
 # CDN
 # ---------------------------------------------------------------------------------------
 cdn:
-  enable: true
+  enable: false
 
 
 # ---------------------------------------------------------------------------------------
