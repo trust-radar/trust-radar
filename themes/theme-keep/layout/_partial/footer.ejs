@@ -6,6 +6,7 @@
               <span><%= theme.footer.since %></span>&nbsp;-&nbsp;
             <% } %>
             <%= date(new Date(), 'YYYY') %>&nbsp;<i class="fas fa-heart icon-animate"></i>&nbsp;<a href="/"><%= theme.base_info.author || config.author %></a>
+            <br />Email: trustedmateonline@gmail.com
         </div>
         <% if (theme.website_count.busuanzi_count.enable === true) { %>
             <script async <%= theme.pjax.enable === true ? 'data-pjax' : '' %> src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -29,4 +30,6 @@
             <div class="icp-info info-item"><a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn"><%= theme.footer.icp %></a></div>
         <% } %>
     </div>
+ <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60914f7646b5471c"></script>
 </footer>

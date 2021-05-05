@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Trusted Mate
+title: Trusted Mate - Best digital and cloud services information
 subtitle: 'Trusted Mate'
-description: 'Provides details about best digital products globally available.'
-keywords: web hosting, best software, Trusted Mate review, ps5
+description: 'Trusted mate provides details on best digital software products and cloud services available for Developers, Bloggers, Email Marketers, Vloggers, Youtubers and so on.'
+keywords: web hosting, wordpress, best software, Trusted Mate review, ps5
 author: Trusted Mate
 language: en
 timezone: ''
@@ -129,9 +129,9 @@ nofollow:
     noreferrer: true
     noopener: true
 
-  sitemap:
-    path: sitemap.xml
-    tag: false
-    category: false
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false
 
 all_minifier: true
