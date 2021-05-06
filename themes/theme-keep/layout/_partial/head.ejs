@@ -46,7 +46,7 @@
     <meta name="twitter:title" content="<%= title || config.title %>">
     <meta name="twitter:description" content="<%= page.description || config.description %>">
     <meta name="twitter:image" content="<%= config.url + (page.image || theme.style.favicon) %>">
-    <meta name="twitter:site" content="<%= config.url %>">
+    <meta name="twitter:site" content="@trustedmate">
     <meta itemprop="name" content="<%= title || config.title %>">
     <meta itemprop="description" content="<%= page.description || config.description %>">
     <meta itemprop="image" content="<%= config.url + (page.image || theme.style.favicon) %>"">
@@ -56,8 +56,8 @@
 
     <link rel="preconnect" href="https://www.googletagmanager.com">
     <link rel="shortcut icon" href="<%= theme.style.favicon %>">
-    <link rel="alternate" href="<%= config.url + config.root + (page.path || '').replace('index.html', '') %>" hreflang="en-US"/> 
-
+    <!-- <link rel="alternate" href="<%= config.url + config.root + (page.path || '').replace('index.html', '') %>" hreflang="en-US"/>  -->
+    <link rel="apple-touch-icon" href="<%= theme.style.favicon %>">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDRH8QVPRH"></script>
     <script>
@@ -146,6 +146,5 @@
         "url": "<%= config.url + config.root + (page.path || '').replace('index.html', '') %>"
         }</script>
     <% } %>
-    <link rel="apple-touch-icon" href="<%= theme.style.favicon %>">
 </head>
 

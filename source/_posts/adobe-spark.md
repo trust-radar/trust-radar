@@ -29,7 +29,7 @@ Make custom YouTube videos for your channel in a flash. No design skills are nee
 ## A YouTube video editor made easy for youtubers.
 Adobe Spark Video is everything you need to create a YouTube video; It even has example videos. Adobe Spark Video is web-based and completely free, so there’s no limit to the number of projects you can create. Use your own text, animation, video sequences, and images, or browse through Adobe Spark’s collection of free stock photos.
 
-<button class="link-button" onclick="location.href='https://adobesparkvideo.app.link/NdKoobyZJ5';" style="vertical-align:middle"><span>Create Video Now </span></button>
+<button class="link-button" onclick="location.href='https://adobesparkvideo.app.link/NdKoobyZJ5';" ><span>Create Video Now </span></button>
 
 ## How to make a YouTube video.
 ### Start by creating a new project with Adobe Spark.
@@ -53,6 +53,6 @@ Your YouTube video is saved to your Adobe Spark project organizer so that you ca
 ### Professional results for your YouTube channel.
 Professional video production services are never cheap, and they don’t always connect with the source material. By using Adobe Spark Video to edit and create videos, you can stay in charge of the creative process without breaking the bank. With Adobe Spark’s simple, easy-to-use design, you don’t need to be a video production expert to make stunning unique videos. Best of all, Adobe Spark is completely free.
 
-<button class="link-button" onclick="location.href='https://adobesparkvideo.app.link/NdKoobyZJ5';" style="vertical-align:middle"><span>Create Video Now </span></button>
+<button class="link-button" onclick="location.href='https://adobesparkvideo.app.link/NdKoobyZJ5';" ><span>Create Video Now </span></button>
 
 <a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/620x203/620x203BW.png" alt="Bluehost advertisement image"> </a>

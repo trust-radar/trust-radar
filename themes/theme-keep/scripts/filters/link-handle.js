@@ -30,7 +30,7 @@ hexo.extend.filter.register('after_post_render', function (data) {
       }
       // Exit if the url has same host with `config.url`, which means isn't an external link.
       if (!link.protocol || link.hostname === siteHost) return match;
-      if (html === "Learn More") return match;
+      if (html === "Learn More" || html === "Purchase Now") return match;
 
       return (
         `<a class="link" ${attrBegin} href="${href}" ${attrEnd}>${html}<i class="fas fa-external-link-alt"></i></a>`

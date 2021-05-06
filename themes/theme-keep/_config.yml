@@ -37,7 +37,7 @@ style:
   first_screen:
     enable: true
     background_img: /images/bg.svg   # You can use local image or image external link
-    description: Trusted mate provides details on best digital software products and cloud services available for Developers, Bloggers, Email Marketers, Vloggers, Youtubers and so on ... 
+    description: Trusted mate provides details on the best digital software products and cloud services available for Developers, Bloggers, Email Marketers, Vloggers, YouTubers, and so on ... 
 
   # Scroll style settings
   scroll:

@@ -31,7 +31,7 @@ It includes the ability to autoplay your videos and even redirect people to any 
 
 Jai Sharma and his team has released a new and improved Video system designed for you to be able to host your marketing videos and play them on your own website OR on our cloud-based webpages without transferring traffic to external links.
 
-<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" style="vertical-align:middle"><span>Get Videoman Now </span></button>
+<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" ><span>Get Videoman Now </span></button>
 
 ## Features of Videoman
 ### Next-Gen Video Hosting Tech: 
@@ -63,7 +63,7 @@ Automatic Thumbnail Generation and Canva like Image Designing in-built and a lot
 - This is Vimeo, Wistia Killer – Lifetime Video Hosting in Low 1-Time Price
 - 100% newwbie friendly
 
-<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" style="vertical-align:middle"><span>Get Videoman Now </span></button>
+<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" ><span>Get Videoman Now </span></button>
 
 ## 200 Seconds Quick Demo Video
 
@@ -116,4 +116,4 @@ Videoman is a complete video marketing software went live and 1000s have bought 
 | Recommendation |	Highly Recommend |
 | Refund |	30 Days Money Back Guarantee |
 
-<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" style="vertical-align:middle"><span>Get Videoman Now </span></button>
+<button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" ><span>Get Videoman Now </span></button>
