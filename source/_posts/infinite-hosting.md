@@ -57,7 +57,7 @@ Access & Control Your Websites From Anywhere
 ( Build Fast-loading & highly profitable websites with 100% uptime, unlimited bandwidth and maximum malware protection )
 
 <div class="youtube-container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/aEJgA3cybPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/C5-inas2-_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <button class="link-button" onclick="location.href='https://warriorplus.com/o2/a/hxkch/0';" ><span>Get Started With Infinite Hosting Now </span></button>
@@ -99,3 +99,7 @@ Access & Control Your Websites From Anywhere
 - If The Answer Is Yes, Getting Access To Infinite Hosting May Be The Most Life-Changing Decision You Can Make Right Now.
 
 <button class="link-button" onclick="location.href='https://warriorplus.com/o2/a/hxkch/0';" ><span>Get Started With Infinite Hosting Now </span></button>
+
+<div class="youtube-container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/vZ9uKJOswhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

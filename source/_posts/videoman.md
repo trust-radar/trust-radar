@@ -19,7 +19,7 @@ recommendationname: Best video marketing and hosting
 affiliateurl: https://videoman.io/special/#buy
 reviewaspect: video marketing
 ---
-<a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/760x80/760x80BW.png" alt="Bluehost advertisement image"> </a>
+<!-- <a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/760x80/760x80BW.png" alt="Bluehost advertisement image"> </a> -->
 
 <b>VideoMan</b> is an Advanced Video Hosting & Marketing Platform With Built-In Live Transcoding Technology. PERFECT for Sales Videos, Training Videos, Promo Videos, Product Demo Videos, Video Ads, Testimonial Videos, Behind-the-Scenes Videos and much more.
 
@@ -41,7 +41,7 @@ Simply Drag-n-Drop Videos, Images & Audio to Timeline… Join Videos, Trim Video
 ### Premium HQ Stock Assets: 
 Millions of FREE Videos & Images, Background Music. Find perfect media in 1 Click.
 
-<a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/468x60/468x60BW.png" alt="Bluehost advertisement image"> </a>
+<!-- <a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/468x60/468x60BW.png" alt="Bluehost advertisement image"> </a> -->
 
 ### Loom-like Video & Screen Recording: 
 Record, edit, and share videos/audio in minutes with Screenshare, PIP Mode Recording.
@@ -65,14 +65,14 @@ Automatic Thumbnail Generation and Canva like Image Designing in-built and a lot
 
 <button class="link-button" onclick="location.href='https://videoman.io/special/#buy';" ><span>Get Videoman Now </span></button>
 
-## 200 Seconds Quick Demo Video
+## Quick Demo Video
 
 <!-- <video width="800" height="500" controls>
   <source src="https://videoman.b-cdn.net/20210131184732200SecDemoVideoVideoMan_720p.mp4" type="video/mp4">
 </video> -->
 <!-- {% youtube wjh1azw8hIE %} -->
 <div class="youtube-container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/wjh1azw8hIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/DCICYh3TTx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -91,7 +91,7 @@ Videoman is a complete video marketing software went live and 1000s have bought 
 
 <a href="https://videoman.io/special/#buy"><img src="/image/videoman/plus.PNG" alt="VideoMan software advanced features" class="image-responsive" /></a>
 
-<a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/620x203/620x203BW.png" alt="Bluehost advertisement image"> </a>
+<!-- <a href="https://www.bluehost.com/track/swathibangera/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/swathibangera/620x203/620x203BW.png" alt="Bluehost advertisement image"> </a> -->
 
 ## Who Should Buy it?
 - Bloggers
